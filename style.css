@@ -1,0 +1,40 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+		background-image: url(border.png); 
+}
+.container {
+  margin: 0 auto;
+  color: #D7D1C5;
+}
+
+.container a {
+  color:#D7D1C5;
+}
+.content li {
+  margin-left: 25px;
+  height: auto;
+}
+.h1 
+{
+ width:30%; 
+ background:#5E4E4A;
+ color: #D7D1C5;
+ padding:5px; 
+ border-width: 3px; 
+ border-color: #9E8576; 
+ border-style: solid; 
+ }
+form {
+  margin: 20px;
+  color: #D7D1C5;
+}
+footer{
+	 
+     background-color: #5E4E4A;
+	 padding: 15px;
+	 
+	
+}
